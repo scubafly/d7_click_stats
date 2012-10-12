@@ -1,0 +1,7 @@
+name = Click stats
+description = Display external clicks on own content.
+package = jbbi
+core = 7.x
+dependencies[] = pop_links
+files[] = clicks.module
+version = 7.x-0.1
